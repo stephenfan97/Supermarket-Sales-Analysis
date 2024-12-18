@@ -14,3 +14,6 @@ e) Customers: Beneficiaries of the project through enhanced shopping experiences
 ### Data Source
 In this project, the data obtained from Kaggle website: (https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?resource=download)
 to develop data-driven strategies to enhance sales, improve customer satisfaction and increase customer retention. Besides that, another dataset obtained from online: (https://www.citypopulation.de/en/myanmar/cities/) represents as abbreviation city of Myanmar. This dataset is in .csv format which consisting of 1000 rows and 17 columns. In this project, we are used two datasets to conduct this project. Thus, data ingestion is needed in this case. Table 1 shown the information of the dataset used in this project.
+
+### Data Visualization By Using PowerBI software (Click the link below for viewing due to the file is too big to upload)
+https://1drv.ms/u/c/359f215b001248b2/EQUoQDMv05xJkwYeQXeHI9MBBDaS4yDkDUdBOhHqoqrS_g?e=Io6jUP
